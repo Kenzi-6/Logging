@@ -1,0 +1,12 @@
+But this is an unsatisfactory solution, which raises the following serious question:
+how does one execution thread know that another thread has terminated?
+However, the Thread class provides a means to resolve this issue.
+Но это неудовлетворительное решение, вызывающее следующий серьезный вопрос:
+откуда одному потоку исполнения известно, что другой поток завершился?
+Правда, в классе Thread предоставляется средство, позволяющее разрешить этот вопрос.
+But this is an unsatisfactory solution, which raises the following serious question:
+how does one execution thread know that another thread has terminated?
+However, the Thread class provides a means to resolve this issue.
+Но это неудовлетворительное решение, вызывающее следующий серьезный вопрос:
+откуда одному потоку исполнения известно, что другой поток завершился?
+Правда, в классе Thread предоставляется средство, позволяющее разрешить этот вопрос.
